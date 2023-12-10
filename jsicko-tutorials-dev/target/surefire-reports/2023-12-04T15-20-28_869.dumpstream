@@ -1,0 +1,15 @@
+# Created at 2023-12-04T15:20:29.535
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2023-12-04T15:20:29.536
+WARNING: Illegal reflective access by com.esotericsoftware.kryo.util.UnsafeUtil (file:/home/premek/.m2/repository/com/esotericsoftware/kryo-shaded/4.0.2/kryo-shaded-4.0.2.jar) to constructor java.nio.DirectByteBuffer(long,int,java.lang.Object)
+
+# Created at 2023-12-04T15:20:29.536
+WARNING: Please consider reporting this to the maintainers of com.esotericsoftware.kryo.util.UnsafeUtil
+
+# Created at 2023-12-04T15:20:29.536
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2023-12-04T15:20:29.536
+WARNING: All illegal access operations will be denied in a future release
+
